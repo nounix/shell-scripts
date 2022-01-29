@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# TODO: update and move from bashrc here
-
 options=(
     --net host
     --cpuset-cpus 0
